@@ -42,12 +42,12 @@ install.packages("RColorBrewer") (Provides color schemes for maps (and other gra
 
 List of contributors:
 
-\- Krzysztof Wiesniakowski
+\- [Krzysztof Wiesniakowski](https://github.com/krzysztof99xd)
 
 \- Xavier Paulus
 
-\- Vishal Sehgal
+\- [Vishal Sehgal](https://github.com/iamvishalsehgal)
 
 \- Chigozie Ifepe
 
-\- Thierry Brands
+\- [Thierry Brands](https://github.com/brandst)
